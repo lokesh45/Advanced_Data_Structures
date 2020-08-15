@@ -1,0 +1,8 @@
+To compile
+gcc -o assn_1 assn_1.c
+
+To run object file
+./assn_1 --disk-lin key.db seek.db > output.txt
+
+If permission denied error is coming please give execute permission to assn_1 file
+chmod +x assn_1
